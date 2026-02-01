@@ -32,7 +32,7 @@ export function Footer() {
             >
               <div className="relative flex h-12 w-12 items-center justify-center overflow-hidden rounded-xl transition-all duration-300 group-hover:scale-110">
                 <Image
-                  src="https://wiki.mfgg.net/images/5/5f/Weegee.gif"
+                  src="https://static.wikia.nocookie.net/thefakegees/images/9/9b/WeegeeHead.png/revision/latest/smart/width/250/height/250?cb=20120620225035"
                   alt="Weegee"
                   width={48}
                   height={48}
