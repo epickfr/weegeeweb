@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Weegee - The Ultimate Developer Platform',
-  description: 'The most powerful and affordable cloud platform for modern developers. Ship faster with enterprise-grade infrastructure.',
+  title: 'Weegee',
+  description: 'we are weegee!',
   generator: 'v0.app',
   icons: {
     icon: [
