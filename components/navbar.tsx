@@ -39,7 +39,7 @@ export function Navbar() {
           >
             <div className="relative flex h-10 w-10 items-center justify-center overflow-hidden rounded-lg transition-all duration-300 group-hover:scale-110 group-hover:shadow-lg group-hover:shadow-accent/20">
               <Image
-                src="https://wiki.mfgg.net/images/5/5f/Weegee.gif"
+                src="https://static.wikia.nocookie.net/thefakegees/images/9/9b/WeegeeHead.png/revision/latest/smart/width/250/height/250?cb=20120620225035"
                 alt="Weegee"
                 width={40}
                 height={40}
